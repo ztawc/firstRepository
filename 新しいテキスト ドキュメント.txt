@@ -1,0 +1,7 @@
+yum='LD_LIBRARY_PATH=/usr/lib64 yum'
+
+
+#a7d5ee
+167, 213, 238
+height 50
+font  49   ms ゴしぐ
